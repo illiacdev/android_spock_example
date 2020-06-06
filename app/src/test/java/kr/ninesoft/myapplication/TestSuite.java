@@ -5,6 +5,6 @@ import org.junit.runners.Suite;
 
 @RunWith(Suite.class)
 
-@Suite.SuiteClasses({FooTest.class})
+@Suite.SuiteClasses({FooTest.class,FooTest2.class})
 public class TestSuite {
 }
